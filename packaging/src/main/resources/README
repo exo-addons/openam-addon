@@ -1,1 +1,4 @@
-Guide line to configure OpenAM
+You will have to copy this folder to $OPENAM_TOMCAT_HOME/webapp/opensso if you want to configure OpenAM will callback to
+existing eXo Platform to authenticate username/password.
+
+Please read more at: https://github.com/exo-addons/openam-addon/blob/master/README.md#openam-addon
