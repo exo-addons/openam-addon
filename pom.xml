@@ -69,11 +69,6 @@
       </dependency>
       <dependency>
         <groupId>org.gatein.sso</groupId>
-        <artifactId>sso-integration</artifactId>
-        <version>${org.gatein.sso.version}</version>
-      </dependency>
-      <dependency>
-        <groupId>org.gatein.sso</groupId>
         <artifactId>sso-packaging</artifactId>
         <version>${org.gatein.sso.version}</version>
         <type>zip</type>
