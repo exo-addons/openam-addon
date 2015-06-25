@@ -36,9 +36,9 @@
   <description>The OpenAM SSO add-on parent POM</description>
 
   <scm>
-    <connection>scm:git:git://github.com/exo-addons/openam-addon.git</connection>
-    <developerConnection>scm:git:git@github.com:exo-addons/openam-addon.git</developerConnection>
-    <url>https://github.com/exo-addons/openam-addon</url>
+    <connection>scm:git:git://github.com/exoplatform/openam-addon.git</connection>
+    <developerConnection>scm:git:git@github.com:exoplatform/openam-addon.git</developerConnection>
+    <url>https://github.com/exoplatform/openam-addon</url>
     <tag>HEAD</tag>
   </scm>
 
