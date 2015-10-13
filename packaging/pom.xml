@@ -39,10 +39,6 @@
       <artifactId>sso-auth-callback</artifactId>
     </dependency>
     <dependency>
-      <groupId>org.gatein.sso</groupId>
-      <artifactId>sso-agent</artifactId>
-    </dependency>
-    <dependency>
       <groupId>org.gatein.portal</groupId>
       <artifactId>exo.portal.component.web.sso.integration-configs</artifactId>
     </dependency>
