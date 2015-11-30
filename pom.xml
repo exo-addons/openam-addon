@@ -26,7 +26,7 @@
   <parent>
     <groupId>org.exoplatform.addons</groupId>
     <artifactId>addons-parent-pom</artifactId>
-    <version>4</version>
+    <version>6</version>
   </parent>
   <groupId>org.exoplatform.addons.sso</groupId>
   <artifactId>openam-addon-parent</artifactId>
@@ -36,9 +36,9 @@
   <description>The OpenAM SSO add-on parent POM</description>
 
   <scm>
-    <connection>scm:git:git://github.com/exo-addons/openam-addon.git</connection>
-    <developerConnection>scm:git:git@github.com:exo-addons/openam-addon.git</developerConnection>
-    <url>https://github.com/exo-addons/openam-addon</url>
+    <connection>scm:git:git://github.com/exoplatform/openam-addon.git</connection>
+    <developerConnection>scm:git:git@github.com:exoplatform/openam-addon.git</developerConnection>
+    <url>https://github.com/exoplatform/openam-addon</url>
     <tag>HEAD</tag>
   </scm>
 
@@ -50,7 +50,7 @@
     <!-- **************************************** -->
     <!-- Dependencies versions -->
     <!-- **************************************** -->
-    <org.exoplatform.depmgt.version>10-SNAPSHOT</org.exoplatform.depmgt.version>
+    <org.exoplatform.depmgt.version>11-SNAPSHOT</org.exoplatform.depmgt.version>
     <org.gatein.sso.version>1.4.5.Final</org.gatein.sso.version>
     <exogtn.version>4.3.x-PLF-SNAPSHOT</exogtn.version>
   </properties>
