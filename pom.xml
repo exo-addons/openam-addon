@@ -32,8 +32,8 @@
   <artifactId>openam-addon-parent</artifactId>
   <version>1.1.x-SNAPSHOT</version>
   <packaging>pom</packaging>
-  <name>eXo Add-on:: OpenAM SSO Parent POM</name>
-  <description>The OpenAM SSO add-on parent POM</description>
+  <name>eXo Add-on:: OpenAM SSO</name>
+  <description>The OpenAM SSO add-on</description>
 
   <scm>
     <connection>scm:git:git://github.com/exoplatform/openam-addon.git</connection>
