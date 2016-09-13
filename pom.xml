@@ -32,7 +32,7 @@
   <artifactId>openam-addon-parent</artifactId>
   <version>1.1.x-SNAPSHOT</version>
   <packaging>pom</packaging>
-  <name>OpenAM SSO Parent POM</name>
+  <name>eXo Add-on:: OpenAM SSO Parent POM</name>
   <description>The OpenAM SSO add-on parent POM</description>
 
   <scm>

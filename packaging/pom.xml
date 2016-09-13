@@ -30,7 +30,7 @@
   </parent>
   <artifactId>openam-addon-packaging</artifactId>
   <packaging>pom</packaging>
-  <name>OpenAM add-on Packaging</name>
+  <name>eXo Add-on:: OpenAM add-on Packaging</name>
   <description>The OpenAM add-on packaging</description>
 
   <dependencies>
