@@ -30,7 +30,7 @@
   </parent>
   <groupId>org.exoplatform.addons.sso</groupId>
   <artifactId>openam-addon-parent</artifactId>
-  <version>3.0.x-SNAPSHOT</version>
+  <version>3.0.0-RC02</version>
   <packaging>pom</packaging>
   <name>eXo Add-on:: OpenAM SSO</name>
   <description>The OpenAM SSO add-on</description>
@@ -39,7 +39,7 @@
     <connection>scm:git:git://github.com/exoplatform/openam-addon.git</connection>
     <developerConnection>scm:git:git@github.com:exoplatform/openam-addon.git</developerConnection>
     <url>https://github.com/exoplatform/openam-addon</url>
-    <tag>HEAD</tag>
+    <tag>3.0.0-RC02</tag>
   </scm>
 
   <modules>
