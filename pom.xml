@@ -30,7 +30,7 @@
   </parent>
   <groupId>org.exoplatform.addons.sso</groupId>
   <artifactId>openam-addon-parent</artifactId>
-  <version>3.1.x-SNAPSHOT</version>
+  <version>3.1.x-microservices-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>eXo Add-on:: OpenAM SSO</name>
   <description>The OpenAM SSO add-on</description>
@@ -50,9 +50,9 @@
     <!-- **************************************** -->
     <!-- Dependencies versions -->
     <!-- **************************************** -->
-    <org.exoplatform.depmgt.version>18.x-SNAPSHOT</org.exoplatform.depmgt.version>
-    <org.exoplatform.gatein.sso.version>6.1.x-SNAPSHOT</org.exoplatform.gatein.sso.version>
-    <org.exoplatform.gatein.portal.version>6.1.x-SNAPSHOT</org.exoplatform.gatein.portal.version>
+    <org.exoplatform.depmgt.version>18.x-microservices-SNAPSHOT</org.exoplatform.depmgt.version>
+    <org.exoplatform.gatein.sso.version>6.1.x-microservices-SNAPSHOT</org.exoplatform.gatein.sso.version>
+    <org.exoplatform.gatein.portal.version>6.1.x-microservices-SNAPSHOT</org.exoplatform.gatein.portal.version>
   </properties>
 
   <dependencyManagement>
